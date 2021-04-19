@@ -15,11 +15,9 @@
 - The dataset contains images in jpg format.
 - Images are annoted with numbers (Example: 30.jpg)
 ## Files
-There are 5 types of files in the repository:
-- Fruit_checked.ipynb is the full version of the code used for this analysis
+There are 3 types of files in the repository:
+- Intel.ipynb is the full version of the code used for this analysis
 - readme.md explains the repository
-- Figure directory containes all the figure produced in the analysis
-- Fruits-360.zip is the dataset used in the project
-- Fruit_model_weight.h5 is the developed model
+- Problem to solve explaines the ongoing work
 ## Collaboration direction:
 - Using a pre-trained model in this scenerio will more likely to yield better accuracy. If any one want to contribute, I would highly suggest to try it out.
