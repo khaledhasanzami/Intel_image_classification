@@ -1,4 +1,4 @@
-# Intel Image Classification
+# Intel Image Classification - Image Scene Classification of Multiclass using CNN
 
 ## Data
 ### Dataset:
