@@ -5,4 +5,4 @@
   - Not much variance in the traing dataset
   - Use of 50% dropout
 
-** The updated version with the solution will be uploaded on 25-04-2021 **
+**The updated version with the solution will be uploaded on 25-05-2021**
